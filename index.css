@@ -1,0 +1,23 @@
+body {
+ background-color: lightgrey;
+}
+.fa {
+    color: deepskyblue;
+}
+.box-center{
+    background-color: white;
+    padding: 60px 0px;
+    margin: 30px 0px;
+}
+.box{
+    padding: 60px 0px;
+}
+.text{
+    margin: 20px;
+}
+span{
+    font-size: 15px;
+}
+a{
+    border-bottom: 1px solid blue;
+}
